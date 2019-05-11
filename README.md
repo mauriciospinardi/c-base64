@@ -9,3 +9,15 @@ work.
 His code was almost untouched, but he original version can be found
 [here]([https://nachtimwald.com/2017/11/18/base64-encode-and-decode-in-c/).
 Naming convention and other coding aspects also remain unaltered.
+
+## Current status
+
+This project has not yet reached its first release version. It should be
+considered:  
+
+```diff
++ The code on this repository is already fully functional!
+
+- There are many needed comments absent in the encoder/decoder files as much as in the example files
+- There are no makefile available at the moment
+```
